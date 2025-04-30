@@ -6,7 +6,7 @@ A Retrieval-Augmented Generation (RAG) system with Neural Network-based Reinforc
 
 **Date**: 30 April 2025.
 
-<a href=\"https://colab.research.google.com/github/badrmellal/project2_mit/blob/main/mitrag_rlhf.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badrmellal/project2_mit/blob/main/mitrag_rlhf.ipynb)
 
 ![System Demo](https://github.com/badrmellal/project2_mit/raw/main/docs/system-demo.png)
 
