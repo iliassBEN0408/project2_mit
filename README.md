@@ -2,8 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) system with Neural Network-based Reinforcement Learning from Human Feedback (RLHF) for improved document question-answering.
 
-**Authors**: Badr Mellal and Iliass Benayed
-**Date**: April 2025  
+**Authors**: Badr Mellal and Iliass Benayed.
+
+**Date**: 30 April 2025.
 
 
 ![System Demo](https://github.com/badrmellal/project2_mit/raw/main/docs/system-demo.png)
